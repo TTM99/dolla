@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dolla/static/js/main.c3cd0d91.js",
+    "static/media/video.mp4": "/dolla/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/svg1.svg": "/dolla/static/media/svg1.ae3579243ae95dd93b526b16fe7578fe.svg",
+    "index.html": "/dolla/index.html",
+    "main.c3cd0d91.js.map": "/dolla/static/js/main.c3cd0d91.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3cd0d91.js"
+  ]
+}
