@@ -8,7 +8,7 @@ export default function ScrollToTop() {
   useEffect(() => {
     window.scrollTo(0, 0);
     console.log(data);
-  }, [pathname]);
+  }, [pathname, data]);
 
   return null;
 }
